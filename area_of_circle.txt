@@ -1,0 +1,24 @@
+test case: point, i.e.: r = 0
+input: r= 0
+expected output: 0 cm^2
+actual output:
+Enter the radius of the circle(in cm): 0
+The area of the circle(Value of PI = 3.141) of radius 0.00 cm is 0.0000 cm^2.
+
+-------------------------------------------------------------------------------------------
+
+test case: circle of r = 1 cm
+input: r = 1 
+expected output: 3.141 cm^2
+actual output:
+Enter the radius of the circle(in cm): 1
+The area of the circle(Value of PI = 3.141) of radius 1.00 cm is 3.1410 cm^2.
+
+-------------------------------------------------------------------------------------------
+
+test case: circle of raidus 5 cm
+input: r = 5
+expected output: 78.525‬ cm^2
+actual output:
+Enter the radius of the circle(in cm): 5
+The area of the circle(Value of PI = 3.141) of radius 5.00 cm is 78.5250 cm^2.

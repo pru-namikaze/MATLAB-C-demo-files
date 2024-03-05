@@ -1,0 +1,27 @@
+test case: line of lenght 8 cm
+input: l = 8cm, w = 0cm
+expected output: area = 0cm^2
+actual output:
+Enter the length of rectangle (in cm): 8
+Enter the width of the rectangle (in cm): 0
+the area of the rectange is 0.00 cm^2
+
+------------------------------------------------------------------------------------
+
+test case: squre of edge length 5 cm
+input: l = 5cm, w = 5cm
+expected output: area = 25cm^2
+actual output:
+Enter the length of rectangle (in cm): 5
+Enter the width of the rectangle (in cm): 5
+the area of the rectange is 25.00 cm^2
+
+------------------------------------------------------------------------------------
+
+test case: rectange of dimension 5 x 4
+input: l = 5cm, w = 4cm
+expected output: area = 20cm^2
+actual output:
+Enter the length of rectangle (in cm): 5
+Enter the width of the rectangle (in cm): 4
+the area of the rectange is 20.00 cm^2

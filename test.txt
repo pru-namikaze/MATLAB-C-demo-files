@@ -1,0 +1,74 @@
+Test Desctiption: 
+	population: 100
+	MEAN_CAR_COST: 3500.00
+	REGISTRATION_CHARGE: 0.27 
+	INSURANCE_COST: 0.27 
+	MEAN_MILAGE: 10.00 
+	MEAN_GAS_COST: 10.00 
+	averageDistanceTravelled: 100.00 
+	percentageOfPeopleOwningCars: 100.00 
+Expected Output: 1003500.55
+Actual Output:
+Enter population of the city: 100
+Enter average distance traveled per day: 100
+percentage of people owning cars: 100
+For 
+	population: 100
+	MEAN_CAR_COST: 3500.00
+	REGISTRATION_CHARGE: 0.27 
+	INSURANCE_COST: 0.27 
+	MEAN_MILAGE: 10.00 
+	MEAN_GAS_COST: 10.00 
+	averageDistanceTravelled: 100.00 
+	percentageOfPeopleOwningCars: 100.00 
+COST: 36005479.45
+
+Test Desctiption: 
+	population: 0
+	MEAN_CAR_COST: 3500.00
+	REGISTRATION_CHARGE: 0.27 
+	INSURANCE_COST: 0.27 
+	MEAN_MILAGE: 10.00 
+	MEAN_GAS_COST: 10.00 
+	averageDistanceTravelled: 100.00 
+	percentageOfPeopleOwningCars: 100.00 
+Expected Output: 0
+Actual Output:
+Enter population of the city: 0
+Enter average distance traveled per day: 100
+percentage of people owning cars: 100
+For 
+	population: 0
+	MEAN_CAR_COST: 3500.00
+	REGISTRATION_CHARGE: 0.27 
+	INSURANCE_COST: 0.27 
+	MEAN_MILAGE: 10.00 
+	MEAN_GAS_COST: 10.00 
+	averageDistanceTravelled: 100.00 
+	percentageOfPeopleOwningCars: 100.00 
+COST: 0.00
+
+Test Desctiption: 
+	population: 1
+	MEAN_CAR_COST: 3500.00
+	REGISTRATION_CHARGE: 0.27 
+	INSURANCE_COST: 0.27 
+	MEAN_MILAGE: 10.00 
+	MEAN_GAS_COST: 10.00 
+	averageDistanceTravelled: 100.00 
+	percentageOfPeopleOwningCars: 100.00 
+Expected Output: 1003500.55
+Actual Output:
+Enter population of the city: 1
+Enter average distance traveled per day: 100
+percentage of people owning cars: 100
+For 
+	population: 1
+	MEAN_CAR_COST: 3500.00
+	REGISTRATION_CHARGE: 0.27 
+	INSURANCE_COST: 0.27 
+	MEAN_MILAGE: 10.00 
+	MEAN_GAS_COST: 10.00 
+	averageDistanceTravelled: 100.00 
+	percentageOfPeopleOwningCars: 100.00 
+COST: 360054.79
