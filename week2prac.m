@@ -2,6 +2,7 @@
 % rand()
 % zeros(10)
 % for
+% IF
 clc;
 clear all;
 %%
