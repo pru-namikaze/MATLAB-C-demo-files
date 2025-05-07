@@ -1,7 +1,8 @@
 #include<stdio.h>
 
-int cWorkshopWeek1(void) {
+int main(void) {
     // single line Comment
+    
     /*
      *   Multi line comment
      *   Multi line comment
