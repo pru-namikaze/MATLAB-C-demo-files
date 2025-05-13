@@ -19,6 +19,6 @@ int main() {
         printf("even number\n");
     }
     else {
-        printf("odd number\n")
+        printf("odd number\n");
     }
 }
