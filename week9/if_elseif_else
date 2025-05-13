@@ -30,6 +30,6 @@ int main() {
     else {                  // work_exp <= 0
         bonus = 0;          // Bonus is $0
     }
-    printf("you ar expected to get $%d bonus\n", bonus);
+    printf("you are expected to get $%d bonus\n", bonus);
     return 0;
 }
