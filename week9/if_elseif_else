@@ -31,4 +31,5 @@ int main() {
         bonus = 0;          // Bonus is $0
     }
     printf("you ar expected to get $%d bonus\n", bonus);
+    return 0;
 }
