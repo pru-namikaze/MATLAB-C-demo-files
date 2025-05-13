@@ -10,7 +10,7 @@ int main() {
     //     statement_2;
     // }
     // else {
-    //     else_clock_statments;
+    //     else_block_statments;
     // }
     
     int work_exp;
