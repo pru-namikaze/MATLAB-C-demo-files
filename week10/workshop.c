@@ -92,6 +92,70 @@ int main(void)
     // }
 
     // free(dynamic_array); // deallocating dynamic_array to not have memory leaks
+
+    // ---
+        
+    // int arrLen;
+    // printf("Size: "); 
+    // scanf("%d", &arrLen);
+    
+    // int* arr = (int*) malloc(arrLen * sizeof(int));
+    // if(arr == NULL) {
+    //     printf("Unable to allocate memory.\n");
+    //     return 1;
+    // }
+    
+    // for(int i = 0; i < arrLen; i++) {
+    //     printf("arr[%d] = ", i);
+    //     scanf("%d", &arr[i]);
+    // }
+    
+    // printf("Entered arr[Size: %d]: ", arrLen);
+    // for(int i = 0; i < arrLen; i++) {
+    //     printf("%d ", arr[i]);
+    // }
+    // printf("\n");
+    
+    // int divisible_by_5_cnt = 0;
+    // for(int i = 0; i < arrLen; i++) {
+    //     if(arr[i] % 5 == 0) {
+    //         divisible_by_5_cnt++;
+    //     }
+    // }
+    
+    // int *divisible_by_5_arr = (int*) malloc(sizeof(int) * divisible_by_5_cnt);
+    // if(divisible_by_5_arr == NULL) {
+    //     printf("Unable to allocate memory.\n");
+    //     return 1;
+    // }
+    
+    // int *not_divisible_by_5_arr = (int*) malloc(sizeof(int) * (arrLen - divisible_by_5_cnt));
+    // if(not_divisible_by_5_arr == NULL) {
+    //     printf("Unable to allocate memory.\n");
+    //     return 1;
+    // }
+    
+    // int divisible_by_5_arr_itr = 0, not_divisible_by_5_arr_itr = 0;
+    // for(int i = 0; i < arrLen; i++) {
+    //     if(arr[i] % 5 == 0) {
+    //         divisible_by_5_arr[divisible_by_5_arr_itr++] = arr[i];
+    //     }
+    //     else {
+    //         not_divisible_by_5_arr[not_divisible_by_5_arr_itr++] = arr[i];
+    //     }
+    // }
+
+    // printf("divisible_by_5_arr[Size: %d]: ", divisible_by_5_arr_itr);
+    // for(int i = 0; i < divisible_by_5_arr_itr; i++) {
+    //     printf("%d ", divisible_by_5_arr[i]);
+    // }
+    // printf("\n");
+
+    // printf("divisible_by_5_arr[Size: %d]: ", not_divisible_by_5_arr_itr);
+    // for(int i = 0; i < not_divisible_by_5_arr_itr; i++) {
+    //     printf("%d ", not_divisible_by_5_arr[i]);
+    // }
+    // printf("\n");
     
     int len = 5;
     int kMaxSize = 10;
